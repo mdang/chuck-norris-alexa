@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "GetRandomFactIntent"
+    },
+    {
+      "intent": "GetCustomFactIntent",
+      "slots": [
+        {
+          "name": "FirstName",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

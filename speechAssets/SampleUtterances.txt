@@ -1,0 +1,17 @@
+GetRandomFactIntent to tell me a fact
+GetRandomFactIntent to tell me a joke
+GetRandomFactIntent to tell a fact
+GetRandomFactIntent to tell a joke
+GetRandomFactIntent to tell one of dem jokes
+GetRandomFactIntent to tell one dem jokes
+GetRandomFactIntent for a joke
+GetRandomFactIntent for a fact
+GetRandomFactIntent tell me a joke
+GetRandomFactIntent tell me a fact
+
+GetCustomFactIntent to tell me a fact about {FirstName}
+GetCustomFactIntent to tell me a fact for {FirstName}
+GetCustomFactIntent to tell me a fact using {FirstName}
+GetCustomFactIntent to tell me a joke about {FirstName}
+GetCustomFactIntent to tell me a joke for {FirstName}
+GetCustomFactIntent to tell me a joke using {FirstName}
